@@ -1,0 +1,24 @@
+{
+  "name": "auoh-robot-cloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TommiRajala/AUOH-robot-cloud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TommiRajala/AUOH-robot-cloud/issues"
+  },
+  "homepage": "https://github.com/TommiRajala/AUOH-robot-cloud#readme"
+}
